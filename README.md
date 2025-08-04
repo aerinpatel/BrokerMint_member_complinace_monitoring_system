@@ -73,6 +73,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your\_twitter](https://www.google.com/search?q=https://twitter.com/your_twitter) - email@example.com
 
 Project Link: [https://github.com/aerinpatel/BrokerMint\_member\_complinace\_monitoring\_system.git](https://github.com/aerinpatel/BrokerMint_member_complinace_monitoring_system.git)
